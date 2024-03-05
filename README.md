@@ -30,6 +30,5 @@
     activate server
     server-->>browser: [{ "notes": "carpenter spotify", "date": "2023-1-1" }, ... ]
     deactivate server
-
-    Note right of browser: The browser executes the callback function that renders the notes# exercise-assignment-web-development
-    ```
+    Note right of browser: The browser executes the callback function that renders the notes
+```
