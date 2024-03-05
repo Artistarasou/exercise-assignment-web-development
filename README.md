@@ -1,6 +1,7 @@
 #0.4
-    ```mermaid
     
+   ```mermaid
+
     sequenceDiagram
     participant browser
     participant server
